@@ -1,2 +1,6 @@
-resources
-videoer
+resources/pikles/*
+resources/results*
+videoer/Avstand/*
+videoer/Gjennom_finger/*
+videoer/Hoy/*
+videoer/Refleksjon_fra_finger/*
